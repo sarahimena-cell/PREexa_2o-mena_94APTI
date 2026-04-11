@@ -2,6 +2,7 @@
 
 
 **PROMPTS:**
+
 “Redacta el objetivo para el desarrollo de un proyecto web para consejos, tips, legislación de la administración de la seguridad informática a nivel “empresarial””
 
 “Podrias redactar el alcance de este proyecto web a nivel empresarial, por favor?”
