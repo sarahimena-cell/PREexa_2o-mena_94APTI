@@ -3,9 +3,10 @@
 
 **PROMPTS:**
 “Redacta el objetivo para el desarrollo de un proyecto web para consejos, tips, legislación de la administración de la seguridad informática a nivel “empresarial””
+
 “Podrias redactar el alcance de este proyecto web a nivel empresarial, por favor?”
-“Crea una tabla sql con 5 campos para el desarrollo de un proyecto web para consejos, tips, leagislación de la administración de la seguridad informática a nivel empresarial para altas y
-consultas, edición y borrado de información de este sitio” 
+
+“Crea una tabla sql con 5 campos para el desarrollo de un proyecto web para consejos, tips, leagislación de la administración de la seguridad informática a nivel empresarial para altas y consultas, edición y borrado de información de este sitio” 
 
 **Objetivo:** Desarrollar una plataforma web centralizada que proporcione directrices estratégicas, recomendaciones técnicas y el marco legal vigente en materia de seguridad informática, con el fin de fortalecer la postura de ciberseguridad y el cumplimiento normativo en el entorno empresarial.
 
