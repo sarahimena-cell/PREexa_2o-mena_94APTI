@@ -3,6 +3,15 @@
     Created on : 9/04/2026, 11:50:44 AM
     Author     : Nayeli
 --%>
+<%-- 1. BLOQUE DE SEGURIDAD PARA ADMINS --%>
+<%
+    if(session.getAttribute("session_usuario") == null || 
+       !"admin".equals(session.getAttribute("session_rol"))) {
+        
+        response.sendRedirect("index.jsp?error=acceso_denegado");
+        return;
+    }
+%>
 
 <%@ page import="java.sql.*" %>
 <%@ include file="conexion.jsp" %>
